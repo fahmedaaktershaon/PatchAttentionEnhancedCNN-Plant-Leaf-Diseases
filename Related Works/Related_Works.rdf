@@ -1,0 +1,2585 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S2214785321014115">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2214-7853"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sachdeva</foaf:surname>
+                        <foaf:givenName>Guneet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Preeti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaur</foaf:surname>
+                        <foaf:givenName>Pardeep</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image segmentation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image processing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Plant disease detection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Plant leaf disease classification using deep Convolutional neural network with Bayesian learning</dc:title>
+        <dcterms:abstract>In the present situation, the world's population continues to rise rapidly, while the cultivated land suitable for cultivation stays the same. It forces farmers to demonstrate innovative techniques that improve crop yields to sustain the increasing population. Preserving the health of crops is quite critical in this respect. Therefore, early detection of disease in crops seems to be very crucial to monitor disease and increase crop yield. In this paper, a deep Convolutional Neural Network (DCNN) model is proposed using Bayesian learning process for classification of the diseases in plants. Material used for this work consist of 20,639 images taken from plantVillage having 15 distinct classes of healthy and infected leaf images of potato, tomato and pepper bell. The key objective of this research is the introduction of Bayesian process at the top of residual network for efficient feature learning. An investigation was performed for comparison of proposed DCNN with the traditional classifiers in terms of accuracy, precision, recall and F-score and result indicated that the proposed model is an efficient tool for classification of diseases. Further, the prominent physical or chemical properties of nanomaterials have enabled their use as innovative and high-performance diagnostic toolsfor variedplant pathogens and other important disease biomarkers. Taking these as a pre processing step while acquiring the data set and combining it with proposed work enhances the performance. The proposed approach utilizes the features developed by CNN mostly in different hierarchies to use Bayesian framework and obtains the accuracy rate of 98.9% with no sign of overfitting.</dcterms:abstract>
+        <dc:date>2021-01-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S2214785321014115</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:17:51</dcterms:dateSubmitted>
+        <bib:pages>5584-5590</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2214-7853">
+        <dcterms:isPartOf>
+            <bib:Series>
+                <dc:title>Second International Conference on Aspects of Materials Science and Engineering (ICAMSE 2021)</dc:title>
+            </bib:Series>
+        </dcterms:isPartOf>
+        <prism:volume>45</prism:volume>
+        <dc:title>Materials Today: Proceedings</dc:title>
+        <dc:identifier>DOI 10.1016/j.matpr.2021.02.312</dc:identifier>
+        <dcterms:alternative>Materials Today: Proceedings</dcterms:alternative>
+        <dc:identifier>ISSN 2214-7853</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.mdpi.com/1424-8220/19/19/4161">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1424-8220"/>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Multidisciplinary Digital Publishing Institute</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hang</foaf:surname>
+                        <foaf:givenName>Jie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Dexiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Peng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Jun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Bing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_62"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>convolutional neural network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>global average pooling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>inception structure</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>plant leaf disease</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>squeeze-and-excitation module</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Classification of Plant Leaf Diseases Based on Improved Convolutional Neural Network</dc:title>
+        <dcterms:abstract>Plant leaf diseases are closely related to people’s daily life. Due to the wide variety of diseases, it is not only time-consuming and labor-intensive to identify and classify diseases by artificial eyes, but also easy to be misidentified with having a high error rate. Therefore, we proposed a deep learning-based method to identify and classify plant leaf diseases. The proposed method can take the advantages of the neural network to extract the characteristics of diseased parts, and thus to classify target disease areas. To address the issues of long training convergence time and too-large model parameters, the traditional convolutional neural network was improved by combining a structure of inception module, a squeeze-and-excitation (SE) module and a global pooling layer to identify diseases. Through the Inception structure, the feature data of the convolutional layer were fused in multi-scales to improve the accuracy on the leaf disease dataset. Finally, the global average pooling layer was used instead of the fully connected layer to reduce the number of model parameters. Compared with some traditional convolutional neural networks, our model yielded better performance and achieved an accuracy of 91.7% on the test data set. At the same time, the number of model parameters and training time have also been greatly reduced. The experimental classification on plant leaf diseases indicated that our method is feasible and effective.</dcterms:abstract>
+        <dc:date>2019/1</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.mdpi.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1424-8220/19/19/4161</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:18:43</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+        <bib:pages>4161</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1424-8220">
+        <prism:volume>19</prism:volume>
+        <dc:title>Sensors</dc:title>
+        <dc:identifier>DOI 10.3390/s19194161</dc:identifier>
+        <prism:number>19</prism:number>
+        <dc:identifier>ISSN 1424-8220</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_62">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/62/Hang et al. - 2019 - Classification of Plant Leaf Diseases Based on Improved Convolutional Neural Network.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/1424-8220/19/19/4161/pdf?version=1569581315</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:18:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2079-9292/10/12/1388">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2079-9292"/>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Multidisciplinary Digital Publishing Institute</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan</foaf:surname>
+                        <foaf:givenName>Sk Mahmudul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maji</foaf:surname>
+                        <foaf:givenName>Arnab Kumar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jasiński</foaf:surname>
+                        <foaf:givenName>Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leonowicz</foaf:surname>
+                        <foaf:givenName>Zbigniew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jasińska</foaf:surname>
+                        <foaf:givenName>Elżbieta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_65"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>convolutional neural network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>artificial intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>transfer learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Identification of Plant-Leaf Diseases Using CNN and Transfer-Learning Approach</dc:title>
+        <dcterms:abstract>The timely identification and early prevention of crop diseases are essential for improving production. In this paper, deep convolutional-neural-network (CNN) models are implemented to identify and diagnose diseases in plants from their leaves, since CNNs have achieved impressive results in the field of machine vision. Standard CNN models require a large number of parameters and higher computation cost. In this paper, we replaced standard convolution with depth=separable convolution, which reduces the parameter number and computation cost. The implemented models were trained with an open dataset consisting of 14 different plant species, and 38 different categorical disease classes and healthy plant leaves. To evaluate the performance of the models, different parameters such as batch size, dropout, and different numbers of epochs were incorporated. The implemented models achieved a disease-classification accuracy rates of 98.42%, 99.11%, 97.02%, and 99.56% using InceptionV3, InceptionResNetV2, MobileNetV2, and EfficientNetB0, respectively, which were greater than that of traditional handcrafted-feature-based approaches. In comparison with other deep-learning models, the implemented model achieved better performance in terms of accuracy and it required less training time. Moreover, the MobileNetV2 architecture is compatible with mobile devices using the optimized parameter. The accuracy results in the identification of diseases showed that the deep CNN model is promising and can greatly impact the efficient identification of the diseases, and may have potential in the detection of diseases in real-time agricultural systems.</dcterms:abstract>
+        <dc:date>2021/1</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>www.mdpi.com</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2079-9292/10/12/1388</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:20:51</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by/3.0/</dc:rights>
+        <bib:pages>1388</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2079-9292">
+        <prism:volume>10</prism:volume>
+        <dc:title>Electronics</dc:title>
+        <dc:identifier>DOI 10.3390/electronics10121388</dc:identifier>
+        <prism:number>12</prism:number>
+        <dc:identifier>ISSN 2079-9292</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_65">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/65/Hassan et al. - 2021 - Identification of Plant-Leaf Diseases Using CNN and Transfer-Learning Approach.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/2079-9292/10/12/1388/pdf?version=1623296394</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:20:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.mdpi.com/2077-0472/11/8/707">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Review on Convolutional Neural Network (CNN) Applied to Plant Leaf Disease Classification</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2077-0472/11/8/707</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:33:38</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0045790619300023">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0045-7906"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>G.</foaf:surname>
+                        <foaf:givenName>Geetharamani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>J.</foaf:surname>
+                        <foaf:givenName>Arun Pandian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Transfer learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Artificial intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Deep convolutional neural networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Dropout</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image augmentation</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Leaf diseases identification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Mini batch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Training epoch</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Identification of plant leaf diseases using a nine-layer deep convolutional neural network</dc:title>
+        <dcterms:abstract>In this paper, we proposed a novel plant leaf disease identification model based on a deep convolutional neural network (Deep CNN). The Deep CNN model is trained using an open dataset with 39 different classes of plant leaves and background images. Six types of data augmentation methods were used: image flipping, gamma correction, noise injection, principal component analysis (PCA) colour augmentation, rotation, and scaling. We observed that using data augmentation can increase the performance of the model. The proposed model was trained using different training epochs, batch sizes and dropouts. Compared with popular transfer learning approaches, the proposed model achieves better performance when using the validation data. After an extensive simulation, the proposed model achieves 96.46% classification accuracy. This accuracy of the proposed work is greater than the accuracy of traditional machine learning approaches. The proposed model is also tested with respect to its consistency and reliability.</dcterms:abstract>
+        <dc:date>2019-06-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0045790619300023</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:35:32</dcterms:dateSubmitted>
+        <bib:pages>323-338</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0045-7906">
+        <prism:volume>76</prism:volume>
+        <dc:title>Computers &amp; Electrical Engineering</dc:title>
+        <dc:identifier>DOI 10.1016/j.compeleceng.2019.04.011</dc:identifier>
+        <dcterms:alternative>Computers &amp; Electrical Engineering</dcterms:alternative>
+        <dc:identifier>ISSN 0045-7906</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/abstract/document/10153610">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2169-3536"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hosny</foaf:surname>
+                        <foaf:givenName>Khalid M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>El-Hady</foaf:surname>
+                        <foaf:givenName>Walaa M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samy</foaf:surname>
+                        <foaf:givenName>Farid M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vrochidou</foaf:surname>
+                        <foaf:givenName>Eleni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Papakostas</foaf:surname>
+                        <foaf:givenName>George A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_75"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>computer vision</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature extraction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>multi-class classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Convolutional neural networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Agriculture</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Computer vision</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Convolutional neural network (CNN)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>feature fusion</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>local binary pattern (LBP)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Plant diseases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>plant leaf diseases</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Plants</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>precision agriculture</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Precision engineering</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Multi-Class Classification of Plant Leaf Diseases Using Feature Fusion of Deep Convolutional Neural Network and Local Binary Pattern</dc:title>
+        <dcterms:abstract>Plant diseases are one of the primary causes of decreased agricultural production quality and quantity. With ongoing changes in plant structure and cultivation techniques, new diseases are constantly arising on plant leaves. Thus, accurate classification and detection of plant leaf diseases in their early stages will limit the spread of the infection and support the healthy development of plant production. This work proposes a novel lightweight deep convolutional neural network (CNN) model for obtaining high-level hidden feature representations. The deep features are then fused with traditional handcrafted local binary pattern (LBP) features to capture local texture information in plant leaf images. The proposed model is trained and tested on three publicly available datasets (Apple Leaf, Tomato Leaf, and Grape Leaf). On the three datasets, the proposed approach achieves 99%, 96.6%, and 98.5% validation accuracies, respectively, and 98.8%, 96.5%, and 98.3% test accuracies, respectively. The results of the experiments show that the proposed approach can provide a better control solution for plant diseases.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/10153610</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:35:56</dcterms:dateSubmitted>
+        <bib:pages>62307-62317</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2169-3536">
+        <prism:volume>11</prism:volume>
+        <dc:title>IEEE Access</dc:title>
+        <dc:identifier>DOI 10.1109/ACCESS.2023.3286730</dc:identifier>
+        <dc:identifier>ISSN 2169-3536</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_75">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/75/Hosny et al. - 2023 - Multi-Class Classification of Plant Leaf Diseases Using Feature Fusion of Deep Convolutional Neural.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=10153610&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:36:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.ijrte.org/portfolio-item/F5572039621/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:22773878"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>S</foaf:surname>
+                        <foaf:givenName>Prabavathi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>P</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_78"/>
+        <dc:title>Plant Leaf Disease Detection and Classification using Optimized CNN Model</dc:title>
+        <dcterms:abstract>Our economy depends on productivity in agriculture. The quantity and quality of the yield is greatly affected by various hazardous diseases. Early-stage detection of plant disease will be very helpful to prevent severe damage. Automatic systems to detect the changes in the plants by monitoring the abnormal symptoms in its growth will be more beneficial for the farmers. This paper presents a system for automatic prediction and classification of plant leaf diseases. The survey on various diseases classification techniques that can be used for plant leaf disease detection are also discussed. The proposed system will define the cropped image of a plant through image processing and feature extraction algorithms. Enhanced CNN model is designed and applied for about 20,600 images are collected as a dataset. Optimization is done to enhance the accuracy in the system prediction and to show the improvement in the true positive samples classification. The proposed system shows the improvement in the accuracy of prediction as 93.18% for three different species with twelve different diseases.</dcterms:abstract>
+        <dc:date>2021-03-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.ijrte.org/portfolio-item/F5572039621/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:38:37</dcterms:dateSubmitted>
+        <bib:pages>233-238</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:22773878">
+        <prism:volume>9</prism:volume>
+        <dc:title>The International Journal of Recent Technology and Engineering (IJRTE)</dc:title>
+        <dc:identifier>DOI 10.35940/ijrte.F5572.039621</dc:identifier>
+        <prism:number>6</prism:number>
+        <dcterms:alternative>IJRTE</dcterms:alternative>
+        <dc:identifier>ISSN 22773878</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_78">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/78/PG Scholar, Department of Computer Science and Engineering, Christ (Deemed to be University), Bangalore, India. et al. - 2021 - Plant Leaf Disease Detection and Classification using Optimized CNN Model.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/8278/4dc5d8910a49554beb8118694863c5331dee.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:38:25</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S1574954123002741">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1574-9541"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thakur</foaf:surname>
+                        <foaf:givenName>Poornima Singh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaturvedi</foaf:surname>
+                        <foaf:givenName>Shubhangi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khanna</foaf:surname>
+                        <foaf:givenName>Pritee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sheorey</foaf:surname>
+                        <foaf:givenName>Tanuja</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ojha</foaf:surname>
+                        <foaf:givenName>Aparajita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Convolutional neural network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Plant disease detection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Grad-CAM</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>LIME</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Vision transformer</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Vision transformer meets convolutional neural network for plant disease classification</dc:title>
+        <dcterms:abstract>Plant diseases are the primary cause of crop losses globally, which have an impact on the world economy. To deal with these issues, new agriculture solutions are evolving that combine the Internet of Things and machine learning for early disease detection and control. Most of these systems use machine learning and computer vision for real-time disease identification and diagnosis. With advancements in deep learning techniques, various methods have emerged that employ convolutional neural networks for plant disease detection and identification. More recently, vision transformers have attracted the attention of researchers due to their strikingly better performance in classification problems in different vision-based applications. Accordingly, researchers have begun to explore vision transformers for plant pathology applications as well. In the present work, a hybrid model is proposed that combines the strength of a vision transformer with the inherent feature extraction capability of convolutional neural networks for disease identification using plant leaves. It can efficiently identify a large number of plant diseases for several crops. The proposed model has a lightweight structure with only 0.85 million trainable parameters, which makes it suitable for IoT-based agriculture systems. The performance of the proposed model is compared against nine state-of-the-art techniques on five publicly available datasets. The model is shown to outperform all nine methods even under challenging background conditions. On ‘PlantVillage’ dataset it achieves 98.86% accuracy and 98.9% precision, while on ‘Embrapa’, it shows 89.24% accuracy and 91.17% precision. On small datasets too its performance is better than other competing methods. Explainability of the proposed model is evaluated using gradient-weighted class activation maps and local interpretable model-agnostic explanations.</dcterms:abstract>
+        <dc:date>2023-11-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1574954123002741</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:43:25</dcterms:dateSubmitted>
+        <bib:pages>102245</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1574-9541">
+        <prism:volume>77</prism:volume>
+        <dc:title>Ecological Informatics</dc:title>
+        <dc:identifier>DOI 10.1016/j.ecoinf.2023.102245</dc:identifier>
+        <dcterms:alternative>Ecological Informatics</dcterms:alternative>
+        <dc:identifier>ISSN 1574-9541</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://link.springer.com/article/10.1007/s40747-024-01764-x">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Aboelenin et al.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A hybrid Framework for plant leaf disease detection and classification using convolutional neural networks and vision transformer | Complex &amp; Intelligent Systems | Springer Nature Link</dc:title>
+        <dc:date>2025</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/article/10.1007/s40747-024-01764-x</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 15:43:48</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://doi.org/10.1007/s00521-025-11493-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1433-3058"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Faheem Saidahmd</foaf:surname>
+                        <foaf:givenName>Mohamed T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Elbasiony</foaf:surname>
+                        <foaf:givenName>Reda M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bastwesy</foaf:surname>
+                        <foaf:givenName>Marwa R. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hagar</foaf:surname>
+                        <foaf:givenName>Asmaa A. M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Plant disease detection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Self-Supervised learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>SimCLR</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A generalized novel approach for plant disease detection based on SimCLR and patch-based analysis</dc:title>
+        <dcterms:abstract>Detecting plant diseases is essential for maintaining crop health and maximizing agricultural productivity. While recent advancements in machine learning and deep learning methods for plant disease diagnosis show significant promise, they also present challenges—particularly related to data annotation and the limitations of task-specific models, which often struggle to generalize across different plant diseases. Traditional methods face additional obstacles due to their dependence on crop-specific models and the need for manual inspections, resulting in inefficiencies and limited scalability. This study proposes a generalized approach for efficiently identifying a wide range of plant diseases. By integrating patch-based analysis with the self-supervised learning technique SimCLR, the method enables farmers and researchers to detect unhealthy leaves across various crop species efficiently. To evaluate the effectiveness of our approach, we trained and tested the model using the well-regarded PlantVillage dataset, known for its extensive and diverse representation. Our approach achieved an accuracy of 97.57%. Moreover, when tested on novel datasets, the model achieved an accuracy of 99.22%, demonstrating its robustness and strong generalization capability to previously unseen data.</dcterms:abstract>
+        <dc:date>2025-09-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s00521-025-11493-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-05 16:27:59</dcterms:dateSubmitted>
+        <bib:pages>21867-21908</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1433-3058">
+        <prism:volume>37</prism:volume>
+        <dc:title>Neural Computing and Applications</dc:title>
+        <dc:identifier>DOI 10.1007/s00521-025-11493-y</dc:identifier>
+        <prism:number>26</prism:number>
+        <dcterms:alternative>Neural Comput &amp; Applic</dcterms:alternative>
+        <dc:identifier>ISSN 1433-3058</dc:identifier>
+    </bib:Journal>
+    <bib:Document rdf:about="https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_91"/>
+        <dc:title>PlantVillage Dataset</dc:title>
+        <dcterms:abstract>Dataset of diseased plant leaf images and corresponding labels</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-08 12:47:31</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_91">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/91/plantvillage-dataset.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kaggle.com/datasets/abdallahalidev/plantvillage-dataset</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-08 12:48:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s40747-021-00536-1">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2198-6053"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Albattah</foaf:surname>
+                        <foaf:givenName>Waleed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nawaz</foaf:surname>
+                        <foaf:givenName>Marriam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Javed</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Masood</foaf:surname>
+                        <foaf:givenName>Momina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Albahli</foaf:surname>
+                        <foaf:givenName>Saleh</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_93"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Agriculture</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Plant disease</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CenterNet</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>DenseNet</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A novel deep learning method for detection and classification of plant diseases</dc:title>
+        <dcterms:abstract>The agricultural production rate plays a pivotal role in the economic development of a country. However, plant diseases are the most significant impediment to the production and quality of food. The identification of plant diseases at an early stage is crucial for global health and wellbeing. The traditional diagnosis process involves visual assessment of an individual plant by a pathologist through on-site visits. However, manual examination for crop diseases is restricted because of less accuracy and the small accessibility of human resources. To tackle such issues, there is a demand to design automated approaches capable of efficiently detecting and categorizing numerous plant diseases. Precise identification and classification of plant diseases is a tedious job due because of the occurrence of low-intensity information in the image background and foreground, the huge color resemblance in the healthy and diseased plant areas, the occurrence of noise in the samples, and changes in the position, chrominance, structure, and size of plant leaves. To tackle the above-mentioned problems, we have introduced a robust plant disease classification system by introducing a Custom CenterNet framework with DenseNet-77 as a base network. The presented method follows three steps. In the first step, annotations are developed to get the region of interest. Secondly, an improved CenterNet is introduced in which DenseNet-77 is proposed for deep keypoints extraction. Finally, the one-stage detector CenterNet is used to detect and categorize several plant diseases. To conduct the performance analysis, we have used the PlantVillage Kaggle database, which is the standard dataset for plant diseases and challenges in terms of intensity variations, color changes, and differences found in the shapes and sizes of leaves. Both the qualitative and quantitative analysis confirms that the presented method is more proficient and reliable to identify and classify plant diseases than other latest approaches.</dcterms:abstract>
+        <dc:date>2022-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s40747-021-00536-1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-11 04:14:45</dcterms:dateSubmitted>
+        <bib:pages>507-524</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2198-6053">
+        <prism:volume>8</prism:volume>
+        <dc:title>Complex &amp; Intelligent Systems</dc:title>
+        <dc:identifier>DOI 10.1007/s40747-021-00536-1</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Complex Intell. Syst.</dcterms:alternative>
+        <dc:identifier>ISSN 2198-6053</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_93">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/93/Albattah et al. - 2022 - A novel deep learning method for detection and classification of plant diseases.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs40747-021-00536-1.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-11 04:14:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://doi.org/10.1007/s00500-021-06176-4">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1433-7479"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alguliyev</foaf:surname>
+                        <foaf:givenName>Rasim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Imamverdiyev</foaf:surname>
+                        <foaf:givenName>Yadigar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sukhostat</foaf:surname>
+                        <foaf:givenName>Lyudmila</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bayramov</foaf:surname>
+                        <foaf:givenName>Ruslan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Machine learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Plant disease identification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Plant leaves</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Plant disease detection based on a deep model</dc:title>
+        <dcterms:abstract>Careful monitoring of plant conditions and their diagnosis are necessary, but a human cannot control a large area of land where the crop grows. This paper proposes the solution of this problem. Early diagnosis and accurate detection of plant leaf diseases can prevent the spread of the disease. In the last decade, machine learning methods and image classification tools have been used to identify and diagnose plant diseases. This paper proposes an accurate approach to identify plant leaf diseases based on the deep convolutional neural network and gated recurrent units. The PlantVillage dataset of damaged and healthy plant leaves images is used. The proposed model is trained to identify common plant leaf diseases of 14 species. The experimental results are compared to other well-known models. This study shows that the proposed model based on deep learning provides the best solution in the diagnosis of plant diseases with high accuracy, and that the gated recurrent unit neural network considered as a classifier can improve the accuracy of the convolutional neural network model. The comparison results demonstrated that the proposed approach achieved higher performance than other models.</dcterms:abstract>
+        <dc:date>2021-11-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s00500-021-06176-4</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-11 04:19:55</dcterms:dateSubmitted>
+        <bib:pages>13229-13242</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1433-7479">
+        <prism:volume>25</prism:volume>
+        <dc:title>Soft Computing</dc:title>
+        <dc:identifier>DOI 10.1007/s00500-021-06176-4</dc:identifier>
+        <prism:number>21</prism:number>
+        <dcterms:alternative>Soft Comput</dcterms:alternative>
+        <dc:identifier>ISSN 1433-7479</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://doi.org/10.1007/s10343-022-00796-y">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1439-0345"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alirezazadeh</foaf:surname>
+                        <foaf:givenName>Pendar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Schirrmann</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stolzenburg</foaf:surname>
+                        <foaf:givenName>Frieder</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_99"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Plant disease classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Attention mechanism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Attention-Mechanismus</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CBAM</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Data limitation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Datenlimitierung</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Deep Transfer Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Klassifizierung von Pflanzenkrankheiten</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Improving Deep Learning-based Plant Disease Classification with Attention Mechanism</dc:title>
+        <dcterms:abstract>In recent years, deep learning-based plant disease classification has been widely developed. However, it is challenging to collect sufficient annotated image data to effectively train deep learning models for plant disease recognition. The attention mechanism in deep learning assists the model to focus on the informative data segments and extract the discriminative features of inputs to enhance training performance. This paper investigates the Convolutional Block Attention Module (CBAM) to improve classification with CNNs, which is a lightweight attention module that can be plugged into any CNN architecture with negligible overhead. Specifically, CBAM is applied to the output feature map of CNNs to highlight important local regions and extract more discriminative features. Well-known CNN models (i.e. EfficientNetB0, MobileNetV2, ResNet50, InceptionV3, and VGG19) were applied to do transfer learning for plant disease classification and then fine-tuned by a publicly available plant disease dataset of foliar diseases in pear trees called DiaMOS Plant. Amongst others, this dataset contains 3006 images of leaves affected by different stress symptoms. Among the tested CNNs, EfficientNetB0 has shown the best performance. EfficientNetB0+CBAM has outperformed EfficientNetB0 and obtained 86.89% classification accuracy. Experimental results show the effectiveness of the attention mechanism to improve the recognition accuracy of pre-trained CNNs when there are few training data.</dcterms:abstract>
+        <dc:date>2023-02-01</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Springer Link</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/10.1007/s10343-022-00796-y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:01:30</dcterms:dateSubmitted>
+        <bib:pages>49-59</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1439-0345">
+        <prism:volume>75</prism:volume>
+        <dc:title>Gesunde Pflanzen</dc:title>
+        <dc:identifier>DOI 10.1007/s10343-022-00796-y</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Gesunde Pflanzen</dcterms:alternative>
+        <dc:identifier>ISSN 1439-0345</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_99">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/99/Alirezazadeh et al. - 2023 - Improving Deep Learning-based Plant Disease Classification with Attention Mechanism.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007%2Fs10343-022-00796-y.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:01:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/10234387">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>11</prism:volume>
+                <dc:title>IEEE Access</dc:title>
+                <dc:identifier>DOI 10.1109/ACCESS.2023.3309925</dc:identifier>
+                <dc:identifier>ISSN 2169-3536</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Xiaotian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Weiqun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature extraction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Convolutional neural networks</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>convolutional neural network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Plant diseases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Crops</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>attention mechanism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>bit-plane attention</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Correlation</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Image classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>plant disease classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Task analysis</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Bit-Plane and Correlation Spatial Attention Modules for Plant Disease Classification</dc:title>
+        <dcterms:abstract>The effective and accurate classification of plant diseases is an important task for agricultural production. Therefore, some studies have utilized convolutional neural networks to identify categories of plant diseases, which can effectively reduce the reliance on crop experts. To further improve the accuracy of plant disease classification methods based on convolutional neural network, this paper proposes an attention model designed for plant disease classification tasks. The proposed attention model contains bit-plane attention and a correlation spatial attention. The bit-plane attention localizes disease areas by exploiting bit-plane information. The correlation spatial attention enhances the weight of important areas in the feature map by establishing the correlation between different areas. The accuracy of the proposed attention model inserted into ResNet101 on the AI Challenger 2018 and PlantVillage datasets is 87.11% and 99.82%, respectively. The performance is better than that of other methods studied on the public plant disease classification dataset. Experiments show that the proposed attention model outperforms the widely used universal attention models SE, CBAM, CA, ECA, BAM and GC. In addition, ablation experiments are conducted to verify the influences of different variants of the proposed attention model on the results.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/10234387</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:08:23</dcterms:dateSubmitted>
+        <bib:pages>93852-93863</bib:pages>
+    </bib:Article>
+    <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/fpls.2024.1367738/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1664-462X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Dan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Chao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Jinguang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Mingliang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tang</foaf:surname>
+                        <foaf:givenName>You</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_104"/>
+        <link:link rdf:resource="#item_103"/>
+        <dc:title>MCCM: multi-scale feature extraction network for disease classification and recognition of chili leaves</dc:title>
+        <dcterms:abstract>Currently, foliar diseases of chili have significantly impacted both yield and quality. Despite effective advancements in deep learning techniques for the classification of chili leaf diseases, most existing classification models still face challenges in terms of accuracy and practical application in disease identification. Therefore, in this study, an optimized and enhanced convolutional neural network model named MCCM (MCSAM-ConvNeXt-MSFFM) is proposed by introducing ConvNeXt. The model incorporates a Multi-Scale Feature Fusion Module (MSFFM) aimed at better capturing disease features of various sizes and positions within the images. Moreover, adjustments are made to the positioning, activation functions, and normalization operations of the MSFFM module to further optimize the overall model. Additionally, a proposed Mixed Channel Spatial Attention Mechanism (MCSAM) strengthens the correlation between non-local channels and spatial features, enhancing the model’s extraction of fundamental characteristics of chili leaf diseases. During the training process, pre-trained weights are obtained from the Plant Village dataset using transfer learning to accelerate the model’s convergence. Regarding model evaluation, the MCCM model is compared with existing CNN models (Vgg16, ResNet34, GoogLeNet, MobileNetV2, ShuffleNet, EfficientNetV2, ConvNeXt), and Swin-Transformer. The results demonstrate that the MCCM model achieves average improvements of 3.38%, 2.62%, 2.48%, and 2.53% in accuracy, precision, recall, and F1 score, respectively. Particularly noteworthy is that compared to the original ConvNeXt model, the MCCM model exhibits significant enhancements across all performance metrics. Furthermore, classification experiments conducted on rice and maize disease datasets showcase the MCCM model’s strong generalization performance. Finally, in terms of application, a chili leaf disease classification website is successfully developed using the Flask framework. This website accurately identifies uploaded chili leaf disease images, demonstrating the practical utility of the model.</dcterms:abstract>
+        <dc:date>2024-5-28</dc:date>
+        <z:shortTitle>MCCM</z:shortTitle>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpls.2024.1367738/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:14:37</dcterms:dateSubmitted>
+        <bib:pages>1367738</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1664-462X">
+        <prism:volume>15</prism:volume>
+        <dc:title>Frontiers in Plant Science</dc:title>
+        <dc:identifier>DOI 10.3389/fpls.2024.1367738</dc:identifier>
+        <dcterms:alternative>Front. Plant Sci.</dcterms:alternative>
+        <dc:identifier>ISSN 1664-462X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_104">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/104/Li et al. - 2024 - MCCM multi-scale feature extraction network for disease classification and recognition of chili lea.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/67b5/c0e3ef6a31e2924e4c0db8f3a0023099c621.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:16:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_103">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/1bff81de2c9b6416c662e51446d567643f2977df</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:14:45</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/fpls.2025.1687300/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Frontiers in Plant Science</dc:title>
+                <dc:identifier>DOI 10.3389/fpls.2025.1687300</dc:identifier>
+                <dcterms:alternative>Front. Plant Sci.</dcterms:alternative>
+                <dc:identifier>ISSN 1664-462X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Jia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kan</foaf:surname>
+                        <foaf:givenName>Jingrun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Xinjia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Laixiang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zheng</foaf:surname>
+                        <foaf:givenName>Xueli</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmad</foaf:surname>
+                        <foaf:givenName>Mohammad Nazir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Junmin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_105"/>
+        <dc:title>RTCB: an integrated deep learning model for garlic leaf disease identification</dc:title>
+        <dcterms:abstract>Problem
+              Garlic is a common ingredient that not only enhances the flavor of dishes but also has various beneficial effects and functions for humans. However, its leaf diseases and pests have a serious impact on the growth and yield. Traditional plant leaf disease detection methods have shortcomings, such as high time consumption and low recognition accuracy.
+            
+            
+              Methodology
+              As a result, we present a deep learning approach based on an upgraded ResNet18, triplet, convolutional block (RTCB) attention mechanism for recognizing garlic leaf diseases. First, we replace the convolutional layers in the residual block with partial convolutions based on the classic ResNet18 architecture to improve computational efficiency. Then, we introduce triplet attention after the first convolutional layer to enhance the model’s ability to focus on key features. Finally, we add a convolutional block attention mechanism after each residual layer to improve the model’s feature perception.
+            
+            
+              Results
+              The experimental results demonstrate that the proposed model achieves a classification accuracy of 98.90%, which is superior to outstanding deep learning models such as Efficient-v2-B0, MobileOne-S0, OverLoCK-S, EfficientFormer, and MobileMamba. The proposed RTCB has a faster computation speed, higher recognition precision, and stronger generalization ability.
+            
+            
+              Contribution
+              The proposed approach provides a scalable technical reference for the engineering application of automatic disease monitoring and control in intelligent agriculture. The current strategy is conducive to the deployment of edge computing equipment and has extensive significance and application potential in plant leaf disease detection.</dcterms:abstract>
+        <dc:date>2025-10-16</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>RTCB</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpls.2025.1687300/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:17:54</dcterms:dateSubmitted>
+        <bib:pages>1687300</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_105">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/105/Liu et al. - 2025 - RTCB an integrated deep learning model for garlic leaf disease identification.pdf"/>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/e4df/b4f70d5777c33d3de63e58ad9902c2c0c034.pdf?_gl=1*1m2rgo3*_gcl_au*MTM3Mzc4OTg2OS4xNzcxMTY5Nzg0*_ga*NTY4OTY4NzYwLjE3NzExNjk3ODQ.*_ga_H7P4ZT52H5*czE3NzExNzE2MDQkbzIkZzEkdDE3NzExNzIxNjYkajM1JGwwJGgw</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:17:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/1424-8220/21/23/7987">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>21</prism:volume>
+                <dc:title>Sensors</dc:title>
+                <dc:identifier>DOI 10.3390/s21237987</dc:identifier>
+                <prism:number>23</prism:number>
+                <dcterms:alternative>Sensors</dcterms:alternative>
+                <dc:identifier>ISSN 1424-8220</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Trivedi</foaf:surname>
+                        <foaf:givenName>Naresh K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gautam</foaf:surname>
+                        <foaf:givenName>Vinay</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anand</foaf:surname>
+                        <foaf:givenName>Abhineet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aljahdali</foaf:surname>
+                        <foaf:givenName>Hani Moaiteq</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Villar</foaf:surname>
+                        <foaf:givenName>Santos Gracia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anand</foaf:surname>
+                        <foaf:givenName>Divya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goyal</foaf:surname>
+                        <foaf:givenName>Nitin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kadry</foaf:surname>
+                        <foaf:givenName>Seifedine</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_110"/>
+        <link:link rdf:resource="#item_109"/>
+        <dc:title>Early Detection and Classification of Tomato Leaf Disease Using High-Performance Deep Neural Network</dc:title>
+        <dcterms:abstract>Tomato is one of the most essential and consumable crops in the world. Tomatoes differ in quantity depending on how they are fertilized. Leaf disease is the primary factor impacting the amount and quality of crop yield. As a result, it is critical to diagnose and classify these disorders appropriately. Different kinds of diseases influence the production of tomatoes. Earlier identification of these diseases would reduce the disease’s effect on tomato plants and enhance good crop yield. Different innovative ways of identifying and classifying certain diseases have been used extensively. The motive of work is to support farmers in identifying early-stage diseases accurately and informing them about these diseases. The Convolutional Neural Network (CNN) is used to effectively define and classify tomato diseases. Google Colab is used to conduct the complete experiment with a dataset containing 3000 images of tomato leaves affected by nine different diseases and a healthy leaf. The complete process is described: Firstly, the input images are preprocessed, and the targeted area of images are segmented from the original images. Secondly, the images are further processed with varying hyper-parameters of the CNN model. Finally, CNN extracts other characteristics from pictures like colors, texture, and edges, etc. The findings demonstrate that the proposed model predictions are 98.49% accurate.</dcterms:abstract>
+        <dc:date>2021-11-30</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1424-8220/21/23/7987</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:20:22</dcterms:dateSubmitted>
+        <bib:pages>7987</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_110">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/110/Trivedi et al. - 2021 - Early Detection and Classification of Tomato Leaf Disease Using High-Performance Deep Neural Network.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/9da6/a18ef804b4ab2e90492cc5d2dd6f654c59b9.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:20:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_109">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/825fe75fe752d31f58bfbd343f1318800bf313ec</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:20:23</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2077-0472/12/2/228">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2077-0472"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhujel</foaf:surname>
+                        <foaf:givenName>Anil</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Na-Eun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arulmozhi</foaf:surname>
+                        <foaf:givenName>Elanchezhian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Basak</foaf:surname>
+                        <foaf:givenName>Jayanta Kumar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Hyeon-Tae</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_113"/>
+        <dc:title>A Lightweight Attention-Based Convolutional Neural Networks for Tomato Leaf Disease Classification</dc:title>
+        <dcterms:abstract>Plant diseases pose a significant challenge for food production and safety. Therefore, it is indispensable to correctly identify plant diseases for timely intervention to protect crops from massive losses. The application of computer vision technology in phytopathology has increased exponentially due to automatic and accurate disease detection capability. However, a deep convolutional neural network (CNN) requires high computational resources, limiting its portability. In this study, a lightweight convolutional neural network was designed by incorporating different attention modules to improve the performance of the models. The models were trained, validated, and tested using tomato leaf disease datasets split into an 8:1:1 ratio. The efficacy of the various attention modules in plant disease classification was compared in terms of the performance and computational complexity of the models. The performance of the models was evaluated using the standard classification accuracy metrics (precision, recall, and F1 score). The results showed that CNN with attention mechanism improved the interclass precision and recall, thus increasing the overall accuracy (&gt;1.1%). Moreover, the lightweight model significantly reduced network parameters (~16 times) and complexity (~23 times) compared to the standard ResNet50 model. However, amongst the proposed lightweight models, the model with attention mechanism nominally increased the network complexity and parameters compared to the model without attention modules, thereby producing better detection accuracy. Although all the attention modules enhanced the performance of CNN, the convolutional block attention module (CBAM) was the best (average accuracy 99.69%), followed by the self-attention (SA) mechanism (average accuracy 99.34%).</dcterms:abstract>
+        <dc:date>2022-02-04</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2077-0472/12/2/228</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:22:39</dcterms:dateSubmitted>
+        <bib:pages>228</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2077-0472">
+        <prism:volume>12</prism:volume>
+        <dc:title>Agriculture</dc:title>
+        <dc:identifier>DOI 10.3390/agriculture12020228</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Agriculture</dcterms:alternative>
+        <dc:identifier>ISSN 2077-0472</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_113">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/b2f1c465d27194cac129369c9597c897217744e3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:22:40</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2073-4395/12/10/2395">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2073-4395"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>J.</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eunice</foaf:surname>
+                        <foaf:givenName>Jennifer</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Popescu</foaf:surname>
+                        <foaf:givenName>Daniela Elena</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chowdary</foaf:surname>
+                        <foaf:givenName>M. Kalpana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hemanth</foaf:surname>
+                        <foaf:givenName>Jude</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_116"/>
+        <link:link rdf:resource="#item_115"/>
+        <dc:title>Deep Learning-Based Leaf Disease Detection in Crops Using Images for Agricultural Applications</dc:title>
+        <dcterms:abstract>The agricultural sector plays a key role in supplying quality food and makes the greatest contribution to growing economies and populations. Plant disease may cause significant losses in food production and eradicate diversity in species. Early diagnosis of plant diseases using accurate or automatic detection techniques can enhance the quality of food production and minimize economic losses. In recent years, deep learning has brought tremendous improvements in the recognition accuracy of image classification and object detection systems. Hence, in this paper, we utilized convolutional neural network (CNN)-based pre-trained models for efficient plant disease identification. We focused on fine tuning the hyperparameters of popular pre-trained models, such as DenseNet-121, ResNet-50, VGG-16, and Inception V4. The experiments were carried out using the popular PlantVillage dataset, which has 54,305 image samples of different plant disease species in 38 classes. The performance of the model was evaluated through classification accuracy, sensitivity, specificity, and F1 score. A comparative analysis was also performed with similar state-of-the-art studies. The experiments proved that DenseNet-121 achieved 99.81% higher classification accuracy, which was superior to state-of-the-art models.</dcterms:abstract>
+        <dc:date>2022-10-03</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2073-4395/12/10/2395</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:24:49</dcterms:dateSubmitted>
+        <bib:pages>2395</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2073-4395">
+        <prism:volume>12</prism:volume>
+        <dc:title>Agronomy</dc:title>
+        <dc:identifier>DOI 10.3390/agronomy12102395</dc:identifier>
+        <prism:number>10</prism:number>
+        <dcterms:alternative>Agronomy</dcterms:alternative>
+        <dc:identifier>ISSN 2073-4395</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_116">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/116/J. et al. - 2022 - Deep Learning-Based Leaf Disease Detection in Crops Using Images for Agricultural Applications.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/573c/c29db90c3e83a2feb729b00514309277b86b.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:25:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_115">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/733fc7382b4290604cc94754d0d932616f53c474</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:24:50</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0168169919300651">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0168-1699"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zeng</foaf:surname>
+                        <foaf:givenName>Weihui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Miao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_118"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Convolutional neural network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Robustness</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Crop leaf disease recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Self-Attention (SA)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Crop leaf disease recognition based on Self-Attention convolutional neural network</dc:title>
+        <dcterms:abstract>The characteristics of the complex background in crop disease image, the small disease area, and the small contrast between the disease region and the background that easily causes confusion between them, seriously affect the recognition robustness and accuracy. To address these issues, we propose a Self-Attention Convolutional Neural Network (SACNN), which extracts effective features of crop disease spots to identify crop diseases. Our SACNN includes a basic network and a self-attention network: the basic network is for extracting the global features of the image, and the self-attention network is for obtaining the local features of the lesion area. Extensive experimental results show that the recognition accuracy of SACNN on AES-CD9214 and MK-D2 is 95.33% and 98.0%, respectively. The recognition accuracy of SACNN on MK-D2 has outperformed the state-of-the-art method by 2.9%, which implies that the CNN with self-attention can focus on the important areas of the image, and thus can improve the recognition accuracy. Adding different levels of noise to the AES-CD9214 test set shows the anti-interference ability and the strong robustness of SACNN. In addition, we discuss the influence of the location selection, channel size setting, network number and other aspects of the self-attention network on the recognition performance, in order to show the self-attention network working mechanism and provide inspiration for future research.</dcterms:abstract>
+        <dc:date>2020-05-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0168169919300651</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:29:07</dcterms:dateSubmitted>
+        <bib:pages>105341</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0168-1699">
+        <prism:volume>172</prism:volume>
+        <dc:title>Computers and Electronics in Agriculture</dc:title>
+        <dc:identifier>DOI 10.1016/j.compag.2020.105341</dc:identifier>
+        <dcterms:alternative>Computers and Electronics in Agriculture</dcterms:alternative>
+        <dc:identifier>ISSN 0168-1699</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_118">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/118/S0168169919300651.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0168169919300651</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:29:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/fpls.2023.1212747/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>14</prism:volume>
+                <dc:title>Frontiers in Plant Science</dc:title>
+                <dc:identifier>DOI 10.3389/fpls.2023.1212747</dc:identifier>
+                <dcterms:alternative>Front. Plant Sci.</dcterms:alternative>
+                <dc:identifier>ISSN 1664-462X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ullah</foaf:surname>
+                        <foaf:givenName>Naeem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khan</foaf:surname>
+                        <foaf:givenName>Javed Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Almakdi</foaf:surname>
+                        <foaf:givenName>Sultan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alshehri</foaf:surname>
+                        <foaf:givenName>Mohammed S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Al Qathrady</foaf:surname>
+                        <foaf:givenName>Mimonah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>El-Rashidy</foaf:surname>
+                        <foaf:givenName>Nora</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>El-Sappagh</foaf:surname>
+                        <foaf:givenName>Shaker</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ali</foaf:surname>
+                        <foaf:givenName>Farman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_122"/>
+        <link:link rdf:resource="#item_121"/>
+        <dc:title>An effective approach for plant leaf diseases classification based on a novel DeepPlantNet deep learning model</dc:title>
+        <dcterms:abstract>Introduction
+              Recently, plant disease detection and diagnosis procedures have become a primary agricultural concern. Early detection of plant diseases enables farmers to take preventative action, stopping the disease's transmission to other plant sections. Plant diseases are a severe hazard to food safety, but because the essential infrastructure is missing in various places around the globe, quick disease diagnosis is still difficult. The plant may experience a variety of attacks, from minor damage to total devastation, depending on how severe the infections are. Thus, early detection of plant diseases is necessary to optimize output to prevent such destruction. The physical examination of plant diseases produced low accuracy, required a lot of time, and could not accurately anticipate the plant disease. Creating an automated method capable of accurately classifying to deal with these issues is vital.
+            
+            
+              Method
+              This research proposes an efficient, novel, and lightweight DeepPlantNet deep learning (DL)-based architecture for predicting and categorizing plant leaf diseases. The proposed DeepPlantNet model comprises 28 learned layers, i.e., 25 convolutional layers (ConV) and three fully connected (FC) layers. The framework employed Leaky RelU (LReLU), batch normalization (BN), fire modules, and a mix of 3×3 and 1×1 filters, making it a novel plant disease classification framework. The Proposed DeepPlantNet model can categorize plant disease images into many classifications.
+            
+            
+              Results
+              The proposed approach categorizes the plant diseases into the following ten groups: Apple_Black_rot (ABR), Cherry_(including_sour)_Powdery_mildew (CPM), Grape_Leaf_blight_(Isariopsis_Leaf_Spot) (GLB), Peach_Bacterial_spot (PBS), Pepper_bell_Bacterial_spot (PBBS), Potato_Early_blight (PEB), Squash_Powdery_mildew (SPM), Strawberry_Leaf_scorch (SLS), bacterial tomato spot (TBS), and maize common rust (MCR). The proposed framework achieved an average accuracy of 98.49 and 99.85in the case of eight-class and three-class classification schemes, respectively.
+            
+            
+              Discussion
+              The experimental findings demonstrated the DeepPlantNet model's superiority to the alternatives. The proposed technique can reduce financial and agricultural output losses by quickly and effectively assisting professionals and farmers in identifying plant leaf diseases.</dcterms:abstract>
+        <dc:date>2023-10-11</dc:date>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpls.2023.1212747/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:31:38</dcterms:dateSubmitted>
+        <bib:pages>1212747</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_122">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/122/Ullah et al. - 2023 - An effective approach for plant leaf diseases classification based on a novel DeepPlantNet deep lear.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpls.2023.1212747/pdf?isPublishedV2=False</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:32:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_121">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/f475af89ab0ea44ccb2fdb4799b588ed921e3eac</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:31:41</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.mdpi.com/2076-3417/12/14/6982">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2076-3417"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pandian</foaf:surname>
+                        <foaf:givenName>J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kumar</foaf:surname>
+                        <foaf:givenName>V.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Geman</foaf:surname>
+                        <foaf:givenName>Oana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hnatiuc</foaf:surname>
+                        <foaf:givenName>Mihaela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arif</foaf:surname>
+                        <foaf:givenName>Muhammad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kanchanadevi</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_125"/>
+        <dc:title>Plant Disease Detection Using Deep Convolutional Neural Network</dc:title>
+        <dcterms:abstract>In this research, we proposed a novel 14-layered deep convolutional neural network (14-DCNN) to detect plant leaf diseases using leaf images. A new dataset was created using various open datasets. Data augmentation techniques were used to balance the individual class sizes of the dataset. Three image augmentation techniques were used: basic image manipulation (BIM), deep convolutional generative adversarial network (DCGAN) and neural style transfer (NST). The dataset consists of 147,500 images of 58 different healthy and diseased plant leaf classes and one no-leaf class. The proposed DCNN model was trained in the multi-graphics processing units (MGPUs) environment for 1000 epochs. The random search with the coarse-to-fine searching technique was used to select the most suitable hyperparameter values to improve the training performance of the proposed DCNN model. On the 8850 test images, the proposed DCNN model achieved 99.9655% overall classification accuracy, 99.7999% weighted average precision, 99.7966% weighted average recall, and 99.7968% weighted average F1 score. Additionally, the overall performance of the proposed DCNN model was better than the existing transfer learning approaches.</dcterms:abstract>
+        <dc:date>2022-07-10</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2076-3417/12/14/6982</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:32:24</dcterms:dateSubmitted>
+        <bib:pages>6982</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2076-3417">
+        <prism:volume>12</prism:volume>
+        <dc:title>Applied Sciences</dc:title>
+        <dc:identifier>DOI 10.3390/app12146982</dc:identifier>
+        <prism:number>14</prism:number>
+        <dcterms:alternative>Applied Sciences</dcterms:alternative>
+        <dc:identifier>ISSN 2076-3417</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_125">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/6ff2f1e988ea0143905e0dae8363241783ea30d9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:32:25</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_126">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>10</prism:volume>
+                <dc:title>Electronics</dc:title>
+                <dc:identifier>DOI 10.3390/electronics10121388</dc:identifier>
+                <prism:number>12</prism:number>
+                <dcterms:alternative>Electronics</dcterms:alternative>
+                <dc:identifier>ISSN 2079-9292</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hassan</foaf:surname>
+                        <foaf:givenName>Sk Mahmudul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Maji</foaf:surname>
+                        <foaf:givenName>Arnab Kumar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jasiński</foaf:surname>
+                        <foaf:givenName>Michał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leonowicz</foaf:surname>
+                        <foaf:givenName>Zbigniew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jasińska</foaf:surname>
+                        <foaf:givenName>Elżbieta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_129"/>
+        <link:link rdf:resource="#item_128"/>
+        <dc:title>Identification of Plant-Leaf Diseases Using CNN and Transfer-Learning Approach</dc:title>
+        <dcterms:abstract>The timely identification and early prevention of crop diseases are essential for improving production. In this paper, deep convolutional-neural-network (CNN) models are implemented to identify and diagnose diseases in plants from their leaves, since CNNs have achieved impressive results in the field of machine vision. Standard CNN models require a large number of parameters and higher computation cost. In this paper, we replaced standard convolution with depth=separable convolution, which reduces the parameter number and computation cost. The implemented models were trained with an open dataset consisting of 14 different plant species, and 38 different categorical disease classes and healthy plant leaves. To evaluate the performance of the models, different parameters such as batch size, dropout, and different numbers of epochs were incorporated. The implemented models achieved a disease-classification accuracy rates of 98.42%, 99.11%, 97.02%, and 99.56% using InceptionV3, InceptionResNetV2, MobileNetV2, and EfficientNetB0, respectively, which were greater than that of traditional handcrafted-feature-based approaches. In comparison with other deep-learning models, the implemented model achieved better performance in terms of accuracy and it required less training time. Moreover, the MobileNetV2 architecture is compatible with mobile devices using the optimized parameter. The accuracy results in the identification of diseases showed that the deep CNN model is promising and can greatly impact the efficient identification of the diseases, and may have potential in the detection of diseases in real-time agricultural systems.</dcterms:abstract>
+        <dc:date>2021-06-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/2079-9292/10/12/1388</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:33:14</dcterms:dateSubmitted>
+        <bib:pages>1388</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_129">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/129/Hassan et al. - 2021 - Identification of Plant-Leaf Diseases Using CNN and Transfer-Learning Approach.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdfs.semanticscholar.org/c38f/582d8a3d6b7778f36524ff37f9802a3e055e.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:33:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_128">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/c38f582d8a3d6b7778f36524ff37f9802a3e055e</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:33:15</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ijece.iaescore.com/index.php/IJECE/article/view/35282">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2722-2578,%202088-8708"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hairah</foaf:surname>
+                        <foaf:givenName>Ummul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Septiarini</foaf:surname>
+                        <foaf:givenName>Anindita</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Puspitasari</foaf:surname>
+                        <foaf:givenName>Novianti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tejawati</foaf:surname>
+                        <foaf:givenName>Andi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hamdani</foaf:surname>
+                        <foaf:givenName>Hamdani</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eka Priyatna</foaf:surname>
+                        <foaf:givenName>Surya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_133"/>
+        <link:link rdf:resource="#item_132"/>
+        <dc:title>Classification of tea leaf disease using convolutional neural network approach</dc:title>
+        <dcterms:abstract>Leaf diseases on tea plants affect the quality of tea. This issue must be overcome since preparing tea drinks requires high-quality tea leaves. Various automatic models for identifying disease in tea leaves have been developed; however, their performance is typically low since the extracted features are not selective enough. This work presents a classification model for tea leaf disease that distinguishes six leaf classes: algal spot, brown, blight, grey blight, helopeltis, red spot, and healthy. Deep learning using a convolutional neural network (CNN) builds an effective model for detecting tea leaf illness. The Kaggle public dataset contains 5,980 tea leaf images on a white background. Pre-processing was performed to reduce computing time, which involved shrinking and normalizing the image prior to augmentation. Augmentation techniques included rotation, shear, flip horizontal, and flip vertical. The CNN model was used to classify tea leaf disease using the MobileNetV2 backbone, Adam optimizer, and rectified linear unit (ReLU) activation function with 224×224 input data. The proposed model attained the highest performance, as evidenced by the accuracy value 0.9455.</dcterms:abstract>
+        <dc:date>2024-06-01</dc:date>
+        <z:libraryCatalog>Semantic Scholar</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ijece.iaescore.com/index.php/IJECE/article/view/35282</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:37:05</dcterms:dateSubmitted>
+        <dc:rights>http://creativecommons.org/licenses/by-sa/4.0</dc:rights>
+        <bib:pages>3287</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2722-2578,%202088-8708">
+        <prism:volume>14</prism:volume>
+        <dc:title>International Journal of Electrical and Computer Engineering (IJECE)</dc:title>
+        <dc:identifier>DOI 10.11591/ijece.v14i3.pp3287-3294</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>IJECE</dcterms:alternative>
+        <dc:identifier>ISSN 2722-2578, 2088-8708</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_133">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/133/Hairah et al. - 2024 - Classification of tea leaf disease using convolutional neural network approach.pdf"/>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ijece.iaescore.com/index.php/IJECE/article/download/35282/17442</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:37:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_132">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Semantic Reader Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.semanticscholar.org/reader/cea225b53f055edf12a5ae668342655161654290</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-15 16:37:12</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2408.15289">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09758887"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Foysal</foaf:surname>
+                        <foaf:givenName>Md Aziz Hosen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ahmed</foaf:surname>
+                        <foaf:givenName>Foyez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haque</foaf:surname>
+                        <foaf:givenName>Md Zahurul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_136"/>
+        <link:link rdf:resource="#item_135"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computers and Society</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Multi-Class Plant Leaf Disease Detection: A CNN-based Approach with Mobile App Integration</dc:title>
+        <dcterms:abstract>Plant diseases significantly impact agricultural productivity, resulting in economic losses and food insecurity. Prompt and accurate detection is crucial for the efficient management and mitigation of plant diseases. This study investigates advanced techniques in plant disease detection, emphasizing the integration of image processing, machine learning, deep learning methods, and mobile technologies. High-resolution images of plant leaves were captured and analyzed using convolutional neural networks (CNNs) to detect symptoms of various diseases, such as blight, mildew, and rust. This study explores 14 classes of plants and diagnoses 26 unique plant diseases. We focus on common diseases affecting various crops. The model was trained on a diverse dataset encompassing multiple crops and disease types, achieving 98.14% accuracy in disease diagnosis. Finally integrated this model into mobile apps for real-time disease diagnosis.</dcterms:abstract>
+        <dc:date>2024-9-30</dc:date>
+        <z:shortTitle>Multi-Class Plant Leaf Disease Detection</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2408.15289</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:03:30</dcterms:dateSubmitted>
+        <dc:description>arXiv:2408.15289 [cs]</dc:description>
+        <bib:pages>62-68</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09758887">
+        <prism:volume>186</prism:volume>
+        <dc:title>International Journal of Computer Applications</dc:title>
+        <dc:identifier>DOI 10.5120/ijca2024924026</dc:identifier>
+        <prism:number>41</prism:number>
+        <dcterms:alternative>IJCA</dcterms:alternative>
+        <dc:identifier>ISSN 09758887</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_136">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/136/Foysal et al. - 2024 - Multi-Class Plant Leaf Disease Detection A CNN-based Approach with Mobile App Integration.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2408.15289</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:03:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_135">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/135/2408.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2408.15289</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:03:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1382802/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>15</prism:volume>
+                <dc:title>Frontiers in Plant Science</dc:title>
+                <dc:identifier>DOI 10.3389/fpls.2024.1382802</dc:identifier>
+                <dcterms:alternative>Front. Plant Sci.</dcterms:alternative>
+                <dc:identifier>ISSN 1664-462X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Frontiers</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Yong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Panxing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tian</foaf:surname>
+                        <foaf:givenName>Shuang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_139"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>attention mechanism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Disease detection</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature pyramid network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Multiscale feature fusion</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>YOLOv6</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Tomato leaf disease detection based on attention mechanism and multi-scale feature fusion</dc:title>
+        <dcterms:abstract>When detecting tomato leaf diseases in natural environments, factors such as changes in lighting, occlusion, and the small size of leaf lesions pose challenges to detection accuracy. Therefore, this study proposes a tomato leaf disease detection method based on attention mechanisms and multiscale feature fusion. Firstly, the Convolutional Block Attention Module (CBAM) is introduced into the backbone feature extraction network to enhance the ability to extract lesion features and suppress the effects of environmental interference. Secondly, shallow feature maps are introduced into the reparameterized generalized feature pyramid network (RepGFPN), constructing a new multi-scale reparameterized generalized feature fusion module (BiRepGFPN) to enhance feature fusion expression and improve the localization ability for small lesion features. Finally, the BiRepGFPN replaces the Path Aggregation Feature Pyramid Network (PAFPN) in the YOLOv6 model to achieve effective fusion of deep semantic and shallow spatial information. Experimental results indicate that, when evaluated on the publicly available PlantDoc dataset, the model's mean average precision (mAP) showed improvements of 7.7%, 11.8%, 3.4%, 5.7%, 4.3%, and 2.6% compared to YOLOX, YOLOv5, YOLOv6, YOLOv6-s, YOLOv7, and YOLOv8, respectively. When evaluated on the tomato leaf disease dataset, the model demonstrated a precision of 92.9%, a recall rate of 95.2%, an F1 score of 94.0%, and a mean average precision (mAP) of 93.8%, showing improvements of 2.3%, 4.0%, 3.1%, and 2.7% respectively compared to the baseline model. These results indicate that the proposed detection method possesses significant detection performance and generalization capabilities.</dcterms:abstract>
+        <dc:date>2024-04-09</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Frontiers</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1382802/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:08:40</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_139">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/139/Wang et al. - 2024 - Tomato leaf disease detection based on attention mechanism and multi-scale feature fusion.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpls.2024.1382802/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:08:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/abstract/document/10921634">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>13</prism:volume>
+                <dc:title>IEEE Access</dc:title>
+                <dc:identifier>DOI 10.1109/ACCESS.2025.3550205</dc:identifier>
+                <dc:identifier>ISSN 2169-3536</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rashid</foaf:surname>
+                        <foaf:givenName>Rubina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aslam</foaf:surname>
+                        <foaf:givenName>Waqar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aziz</foaf:surname>
+                        <foaf:givenName>Romana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aldehim</foaf:surname>
+                        <foaf:givenName>Ghadah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_143"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CNN</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Diseases</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Feature extraction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Accuracy</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Attention mechanisms</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computational modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Training</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>android app</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Biological system modeling</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Cross layer design</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>ECA</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>IRB</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>MobileNetv3</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Predictive models</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>tomato leaf diseases detection system</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Visualization</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Modified MobileNetv3 Coupled With Inverted Residual and Channel Attention Mechanisms for Detection of Tomato Leaf Diseases</dc:title>
+        <dcterms:abstract>An early detection of tomato leaf diseases is crucial for ensuring high-quality and abundant crop production. There is a growing need for an Android application that can identify these diseases and alert farmers to take timely and effective measures, thereby reducing crop yield losses. While deep learning models have been instrumental in detecting plant leaf diseases, they often involve complex models and significant computational demands to achieve optimal performance. This study introduces a feasible lightweight model optimized for an Android application to detect diseased areas within images. This research focuses on enhancing the efficiency and accuracy of tomato leaf disease detection by modifying mobile-based Convolutional Neural Networks (CNNs). This model employs two parallel network streams based on the core principles of MobileNetv3, utilizing inverted residual blocks (IRBs) to improve accuracy at both low and high-level features, operating across different image dimensions. Additionally, inverted residual connections are incorporated to expand the model’s receptive field. To maximize feature utilization, cross-layer connections are introduced between the two parallel streams, integrating the Efficient Channel Attention (ECA) module to reduce the number of parameters. The model is trained using transfer learning with specific adjustments to minimize detection errors and is fine-tuned using a tomato leaf disease image dataset extracted from Plant Village. This feature integration and data analysis scheme are then deployed to provide a tomato leaf disease detection Android app. Evaluation of the model’s performance is conducted through correct predictions and quality metrics, with the average training accuracy for the ten classes found to be 98.77%. The research aims to assess the model’s effectiveness through comprehensive experiments, ultimately contributing to advancements in agricultural applications.</dcterms:abstract>
+        <dc:date>2025</dc:date>
+        <z:libraryCatalog>IEEE Xplore</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/abstract/document/10921634</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:10:00</dcterms:dateSubmitted>
+        <bib:pages>52683-52696</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_143">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/143/Rashid et al. - 2025 - A Modified MobileNetv3 Coupled With Inverted Residual and Channel Attention Mechanisms for Detection.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&amp;arnumber=10921634&amp;ref=</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:10:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S1568494619307148">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1568-4946"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>R.</foaf:surname>
+                        <foaf:givenName>Karthik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>M.</foaf:surname>
+                        <foaf:givenName>Hariharan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anand</foaf:surname>
+                        <foaf:givenName>Sundar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mathikshara</foaf:surname>
+                        <foaf:givenName>Priyanka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Johnson</foaf:surname>
+                        <foaf:givenName>Annie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>R.</foaf:surname>
+                        <foaf:givenName>Menaka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_145"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>CNN</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Attention</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Residual connections</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>Tomato</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Attention embedded residual CNN for disease detection in tomato leaves</dc:title>
+        <dcterms:abstract>Automation in plant disease detection and diagnosis is one of the challenging research areas that has gained significant attention in the agricultural sector. Traditional disease detection methods rely on extracting handcrafted features from the acquired images to identify the type of infection. Also, the performance of these works solely depends on the nature of the handcrafted features selected. This can be addressed by learning the features automatically with the help of Convolutional Neural Networks (CNN). This research presents two different deep architectures for detecting the type of infection in tomato leaves. The first architecture applies residual learning to learn significant features for classification. The second architecture applies attention mechanism on top of the residual deep network. Experiments were conducted using Plant Village Dataset comprising of three diseases namely early blight, late blight, and leaf mold. The proposed work exploited the features learned by the CNN at various processing hierarchy using the attention mechanism and achieved an overall accuracy of 98% on the validation sets in the 5-fold cross-validation.</dcterms:abstract>
+        <dc:date>2020-01-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1568494619307148</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:10:40</dcterms:dateSubmitted>
+        <bib:pages>105933</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1568-4946">
+        <prism:volume>86</prism:volume>
+        <dc:title>Applied Soft Computing</dc:title>
+        <dc:identifier>DOI 10.1016/j.asoc.2019.105933</dc:identifier>
+        <dcterms:alternative>Applied Soft Computing</dcterms:alternative>
+        <dc:identifier>ISSN 1568-4946</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_145">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/145/S1568494619307148.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S1568494619307148</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:10:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.13745">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Ni et al.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Tomato leaf disease recognition based on improved convolutional neural network with attention mechanism - Ni - 2023 - Plant Pathology - Wiley Online Library</dc:title>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://bsppjournals.onlinelibrary.wiley.com/doi/abs/10.1111/ppa.13745</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:12:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <bib:Article rdf:about="https://www.sciencedirect.com/science/article/pii/S0168169922000205">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>193</prism:volume>
+                <dc:title>Computers and Electronics in Agriculture</dc:title>
+                <dc:identifier>DOI 10.1016/j.compag.2022.106703</dc:identifier>
+                <dcterms:alternative>Computers and Electronics in Agriculture</dcterms:alternative>
+                <dc:identifier>ISSN 0168-1699</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Xue</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Kaiyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Yunxia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ma</foaf:surname>
+                        <foaf:givenName>Juncheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Lingxian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_150"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Transfer learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Convolutional neural network</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Attention mechanism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Vegetable disease</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Identification method of vegetable diseases based on transfer learning and attention mechanism</dc:title>
+        <dcterms:abstract>Artificial Intelligence for disease identification is currently the focus of great research interest. Nonetheless, the approach has some problems, for example, identification takes a long time, has low accuracy, and is often limited to a single disease type. Here, we aimed to identify tomato powdery mildew, leaf mold and cucumber downy mildew against simple and complex backgrounds. We developed a vegetable disease identification model, DTL-SE-ResNet50, optimized by SENet and pre-trained by ImageNet to form a new model, SE-ResNet50. The SE-ResNet50 model was trained with the AI Challenger 2018 public database to obtain a new weight. The SE-ResNet50 model with the new weight was then trained by dual transfer learning with a self-built database to create the DTL-SE-ResNet50 model for the identification of vegetable diseases. The model was compared with convolutional neural networks EfficientNet, AlexNet, VGG19, and Inception V3. The experimental results showed that with the same experimental conditions, the identification precision of the new model reached 97.24%, and processing of a single image required 0.13 s. Compared with DTL-CBAM-ResNet50 and DTL-SA-ResNet50, three models has almost the same precision, but time consumption of DTL-SE-ResNet50 was 0.02 s higher than that of DTL-CBAM-ResNet50. Although the time consumption of DTL-SA-ResNet50 was 0.02 s higher than the proposed model, the precision was lower. At the same time, compared with the dual transfer learning model, the model’s precision was 4.1% higher, and the processing of a single image was 0.06 s shorter. Compared with convolutional neural networks, the precision of DTL-SE-ResNet50 was 3.19% higher than the best result, the time consumption of a single image was 0.58 s shorter; Recall and F1 also increased. The method proposed in this paper has high identification precision and short identification time, and it meets the requirements for accurate and rapid identification of vegetable diseases.</dcterms:abstract>
+        <dc:date>2022-02-01</dc:date>
+        <z:libraryCatalog>ScienceDirect</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0168169922000205</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:17:08</dcterms:dateSubmitted>
+        <bib:pages>106703</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_150">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/150/S0168169922000205.html"/>
+        <dc:title>ScienceDirect Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sciencedirect.com/science/article/pii/S0168169922000205</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:17:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1491593/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>15</prism:volume>
+                <dc:title>Frontiers in Plant Science</dc:title>
+                <dc:identifier>DOI 10.3389/fpls.2024.1491593</dc:identifier>
+                <dcterms:alternative>Front. Plant Sci.</dcterms:alternative>
+                <dc:identifier>ISSN 1664-462X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>Frontiers</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sun</foaf:surname>
+                        <foaf:givenName>Wenbin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Zhilong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xu</foaf:surname>
+                        <foaf:givenName>Kang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ru</foaf:surname>
+                        <foaf:givenName>Lin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yang</foaf:surname>
+                        <foaf:givenName>Ranbing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Rong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Xing</foaf:surname>
+                        <foaf:givenName>Jiejie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_158"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>deep learning</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>attention mechanism</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>deep separable convolution</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>image classification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>plant disease identification</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Ultra-lightweight tomatoes disease recognition method based on efficient attention mechanism in complex environment</dc:title>
+        <dcterms:abstract>A variety of diseased leaves and background noise types are present in images of diseased tomatoes captured in real-world environments. However, existing tomato leaf disease recognition models are limited to recognizing only a single leaf, rendering them unsuitable for practical applications in real-world scenarios. Additionally, these models consume significant hardware resources, making their implementation challenging for agricultural production and promotion. To address these issues, this study proposes a framework that integrates tomato leaf detection with leaf disease recognition. This framework includes a leaf detection model designed for diverse and complex environments, along with an ultra-lightweight model for recognizing tomato leaf diseases. To minimize hardware resource consumption, we developed five inverted residual modules coupled with an efficient attention mechanism, resulting in an ultra-lightweight recognition model that effectively balances model complexity and accuracy. The proposed network was trained on a dataset collected from real environments, and 14 contrasting experiments were conducted under varying noise conditions. The results indicate that the accuracy of the ultra-lightweight tomato disease recognition model, which utilizes the efficient attention mechanism, is 97.84%, with only 0.418 million parameters. Compared to traditional image recognition models, the model presented in this study not only achieves enhanced recognition accuracy across 14 noisy environments but also significantly reduces the number of required model parameters, thereby overcoming the limitation of existing models that can only recognize single disease images.</dcterms:abstract>
+        <dc:date>2025-02-13</dc:date>
+        <z:language>English</z:language>
+        <z:libraryCatalog>Frontiers</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2024.1491593/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:20:14</dcterms:dateSubmitted>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_158">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/158/Sun et al. - 2025 - Ultra-lightweight tomatoes disease recognition method based on efficient attention mechanism in comp.pdf"/>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/fpls.2024.1491593/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2026-02-16 10:20:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+</rdf:RDF>
